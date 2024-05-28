@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any dev exercises or projects related to designing web -pages.
 - 📫 How to reach me bemnetseifu@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: The chicked came first.
+- ⚡ Fun fact: The chicken came first.
 
 <!---
 bemnetSeifu/bemnetSeifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
