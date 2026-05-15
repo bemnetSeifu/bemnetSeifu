@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing and coding 
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on any dev exercises or projects related to designing web -pages.
-- 📫 How to reach me bemnetseifu@gmail.com 
+
 
 
 <!---
